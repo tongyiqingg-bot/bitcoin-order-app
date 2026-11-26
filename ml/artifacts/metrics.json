@@ -1,0 +1,8 @@
+{
+  "dataset": "synthetic",
+  "accuracy": 0.996,
+  "training_samples": 1500,
+  "testing_samples": 500,
+  "model": "RandomForestClassifier",
+  "random_state": 42
+}
